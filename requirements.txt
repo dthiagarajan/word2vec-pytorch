@@ -1,0 +1,13 @@
+backports.functools-lru-cache==1.4
+cycler==0.10.0
+matplotlib==2.1.1
+nltk==3.2.5
+numpy==1.13.3
+progressbar2==3.34.3
+pyparsing==2.2.0
+python-dateutil==2.6.1
+python-utils==2.2.0
+pytz==2017.3
+PyYAML==3.12
+six==1.11.0
+subprocess32==3.2.7
